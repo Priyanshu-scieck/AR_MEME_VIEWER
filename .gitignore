@@ -1,0 +1,96 @@
+############################################
+# Unity generated folders
+############################################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+############################################
+# Unity cache / package artifacts
+############################################
+Packages/*.tgz
+Packages/*.tar.gz
+Packages/*.zip
+
+############################################
+# Visual Studio / VS Code / Rider
+############################################
+.vscode/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+############################################
+# OS generated files
+############################################
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+############################################
+# Unity crash reports
+############################################
+sysinfo.txt
+
+############################################
+# Unity Addressables (if used)
+############################################
+Assets/AddressableAssetsData/*/*.bin*
+
+############################################
+# Unity auto-generated meta backups
+############################################
+*.pidb.meta
+*.pdb.meta
+
+############################################
+# Unity build outputs
+############################################
+*.apk
+*.aab
+*.unitypackage
+
+############################################
+# Git internal junk (safety)
+############################################
+.git/rebase-apply
+.git/rebase-merge
+
+############################################
+# Logs & temp files
+############################################
+*.log
+*.tmp
+*.bak
+*.swp
+
+############################################
+# Optional: Ignore large media if needed
+# (uncomment if you add videos later)
+############################################
+# *.mp4
+# *.mov
+# *.avi
+# *.mkv
+
+############################################
+# KEEP THESE (DO NOT IGNORE)
+############################################
+# Assets/
+# Packages/manifest.json
+# Packages/packages-lock.json
+# ProjectSettings/
